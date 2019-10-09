@@ -13,8 +13,9 @@ class Cat
     @name
   end
   
-  def
-end
+  def meow 
+    puts @meow
+  end
 end
 
 
