@@ -13,9 +13,9 @@ class Cat
     @name
   end
   
-  def
-end
-  
+  def meow 
+    STDOUT meow
+  end
 end
 
 
