@@ -12,11 +12,6 @@ class Cat
   def name
     @name
   end
-  
-  def meow
-    @meow = "meow!"
-  end
-  
 end
 
 
