@@ -1,12 +1,12 @@
 ## code your solution here. 
 class Cat 
   attr_accessor :meow
-  def initialize 
+  attr_accessor :name
+  def initialize(name)
     @meow = "meow!"
-  end
-  
-  def name
-    @name
+    @name = name
   end
 end
 
+maru = Cat.new("Maru")
+maru
