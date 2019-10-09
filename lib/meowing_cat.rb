@@ -14,7 +14,7 @@ class Cat
   end
   
   def meow 
-    STDOUT meow
+    @meow
   end
 end
 
