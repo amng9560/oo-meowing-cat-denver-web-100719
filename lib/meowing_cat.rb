@@ -13,9 +13,8 @@ class Cat
     @name
   end
   
-  def meow=()
-    @meow
-  end
+  def
+end
 end
 
 
