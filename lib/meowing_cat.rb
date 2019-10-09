@@ -13,6 +13,8 @@ class Cat
     @name
   end
   
+  def meow
+end
   
 end
 
