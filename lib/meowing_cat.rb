@@ -13,6 +13,9 @@ class Cat
     @name
   end
   
+  def
+end
+  
 end
 
 
