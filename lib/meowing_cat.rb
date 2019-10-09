@@ -14,7 +14,8 @@ class Cat
   end
   
   def meow
-end
+     stdin.puts @meow
+  end
   
 end
 
