@@ -1,9 +1,9 @@
 ## code your solution here. 
 class Cat 
   attr_accessor :meow
-  def initialize(name)
+  def initialize
     @meow = "meow!"
-    @name = name
+    @name = "name"
   end
   
   def name 
